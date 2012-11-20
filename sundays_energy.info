@@ -1,0 +1,8 @@
+name = "Sundays Energy"
+description = "Sundays Energy modules"
+core = "6.x"
+package = "Features"
+version = "6.x-1.0"
+project = "sundays_energy"
+dependencies[] = "admin_menu"
+dependencies[] = "module_filter"
