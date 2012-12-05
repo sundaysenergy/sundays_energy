@@ -8,5 +8,6 @@ dependencies[] = admin_menu
 dependencies[] = backup_migrate
 dependencies[] = module_filter
 dependencies[] = strongarm
+dependencies[] = transliteration
 dependencies[] = views
 features[features_api][] = api:1
