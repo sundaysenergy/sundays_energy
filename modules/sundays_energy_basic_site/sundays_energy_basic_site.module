@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Sundays Energy basic site feature.
+ */
+
+include_once 'sundays_energy_basic_site.features.inc';
