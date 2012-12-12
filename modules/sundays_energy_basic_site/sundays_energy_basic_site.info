@@ -5,6 +5,7 @@ package = Features
 php = 5.2.4
 version = 7.x-1.1
 project = sundays_energy_basic_site
+dependencies[] = admin_menu
 dependencies[] = blog
 dependencies[] = bulk_export
 dependencies[] = color
