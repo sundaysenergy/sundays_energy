@@ -12,6 +12,7 @@ dependencies[] = menu
 dependencies[] = module_filter
 dependencies[] = path
 dependencies[] = strongarm
+dependencies[] = taxonomy
 dependencies[] = token
 dependencies[] = transliteration
 dependencies[] = uuid
